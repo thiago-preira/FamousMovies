@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Famous Movies</string>
+
+    <!--tabs -->
+    <string name="tab_popular">Popular</string>
+    <string name="tab_top_rated">Top Rated</string>
+    <string name="tab_favourite">Favorites</string>
+
+    <!-- Movies Details-->
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_average">Average</string>
+    <string name="movie_videos">Videos</string>
+    <string name="movie_reviews">Reviews</string>
+
+    <string name="no_internet">Only Favorites will be displayed without internet access</string>
+</resources>

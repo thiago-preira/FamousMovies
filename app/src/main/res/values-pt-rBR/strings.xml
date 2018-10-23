@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes Famosos</string>
+
+    <!--tabs -->
+    <string name="tab_popular">Popular</string>
+    <string name="tab_top_rated">Mais Votados</string>
+    <string name="tab_favourite">Favoritos</string>
+
+    <!-- Movies Details-->
+    <string name="movie_release_date">Data</string>
+    <string name="movie_overview">Descrição</string>
+    <string name="movie_average">Nota</string>
+    <string name="movie_videos">Videos</string>
+    <string name="movie_reviews">Reviews</string>
+
+    <string name="no_internet">Somentes os favoritos serão exibidos sem internet</string>
+
+</resources>
